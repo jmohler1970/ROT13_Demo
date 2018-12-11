@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "rot13":"git://github.com/jmohler1970/ROT13.git"
+    },
+    "installPaths":{
+        "rot13":"rot"
+    }
+}
