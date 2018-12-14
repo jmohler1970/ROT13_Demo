@@ -7,7 +7,7 @@ Rob Brooks-Bilson did most of the work on this. I just did some cleanup and expa
 
 ## What is ROT13?
 
-ROT13 stands for Rotate 13. It takes every character in a string and moves it down the alphabet 13 places. If it falls off the end it wrap around to the front. It is the quintessential bad encyrption algorithm. Why 13 places? It serves as its own decrypter.
+ROT13 stands for Rotate 13. It takes every character in a string and moves it down the alphabet 13 places. If it falls off the end it wrap around to the front. It is the quintessential bad encryption algorithm. Why 13 places? It serves as its own decrypter.
 
 ## What is ROT5?
 
@@ -29,6 +29,12 @@ Don't use this to protect any data that might have any value. All of these are i
 
 # Resources
 
+- https://github.com/jmohler1970/ROT13_Demo
+
+- https://github.com/jmohler1970/ROT13
+
 - https://en.wikipedia.org/wiki/ROT13
 
 - https://stackoverflow.com/questions/tagged/rot13
+
+- https://cflib.org/udf/Rot13 (Original)
