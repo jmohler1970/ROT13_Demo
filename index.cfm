@@ -59,7 +59,7 @@
 	<h3>Results</h3>
 
 	<cfscript>
-	result = invoke("rot.rot", "rot13_5", {instring = form.rawText});
+	result = invoke("rot.rot", form.method, {instring = form.rawText});
 	</cfscript>
 
 	<hr />
